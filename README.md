@@ -10,4 +10,4 @@ You just have to install dlib library which won't install if you follow the step
 ```
 pip install (location of the dlib file)
 ```
-##Also I have made changes in the face_test.py file to help in run on PCs with and without GPUs  
+##  Also I have made changes in the face_test.py file to help in run on PCs with and without GPUs  
